@@ -1,7 +1,7 @@
-# cantean-webproxy
+# Cantean Webproxy
 a nifty little node webproxy to evade internet censorship :p
 
-you can import this repo to glitch.com like i have done (cantean.glitch.me), or put it on a diffrent hosting service and run;
+you can import this repo to glitch.com like i have done (cantean.glitch.me), or put it on a diffrent hosting service and run the command below after editing the config.json to your likeing;
 ```bash
 node server.js
 ```
@@ -18,5 +18,5 @@ node server.js
 ![image](https://user-images.githubusercontent.com/66269103/212351675-2812d64e-b40a-4275-9f27-5ada9fb9c54d.png)
 
 ![image](https://user-images.githubusercontent.com/66269103/212352072-c627ea07-8414-40d0-92cc-1703e19e1998.png)
-
+#
 
